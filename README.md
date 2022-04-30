@@ -1,4 +1,6 @@
-<img  alt="hello" src="./img/hello.png" style="margin-left:75px"/>
+<p align="center" width="100%"> 
+    <img width="80% alt="hello" src="./img/hello.png"/>
+</p>
 # Hi there, I'm Emre 👋 
 
 
@@ -18,8 +20,9 @@
 
 
 ### Languages and Tools:
-
-<img  alt="Languages and Tools" margin="auto" src="./img/github.jpg" style="padding-right:10px, margin:auto" />
+<p align="center" width="100%"> 
+    <img width="80% alt="Languages and Tools" margin="auto" src="./img/github.jpg" />
+</p>
 
 <br />
 <br />
