@@ -1,7 +1,7 @@
 <p align="center" width="100%"> 
-    <img width="80% alt="hello" src="./img/hello.png"/>
+    <img margin="auto" width="80% alt="hello" src="./img/hello.png"/>
 </p>
-=======
+
 # Hi there, I'm Emre 👋 
 
 
