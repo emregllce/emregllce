@@ -53,10 +53,9 @@
 
   <p><a href="https://emregllce.github.io/web-page-design/" target="_blank" rel="noreferrer">Web Design</a></p>
   <p><a href="https://emregllce.github.io/check_out_form/" target="_blank" rel="noreferrer">Checkout Form</a></p>
-  <p><a href="https://sule-ss.github.io/Parallax-WebSite/" target="_blank" rel="noreferrer">Parallax WebSite</a></p>
   <p><a href="https://emregllce.github.io/hepsiburada_payment/" target="_blank" rel="noreferrer">Hepsiburada Payment Page</a></p>
   <p><a href="https://emregllce.github.io/Sign_in_to_Netflix/" target="_blank" rel="noreferrer">NetFlix Form Page</a></p>                                               
-  <p><a href=" https://emregllce.github.io/parallax_web/  " target="_blank" rel="noreferrer">Parallax WebSite</a></p>
+  <p><a href="https://emregllce.github.io/parallax_web/" target="_blank" rel="noreferrer">Parallax WebSite</a></p>
   <p><a href="https://emregllce.github.io/google_landing_page/" target="_blank" rel="noreferrer">Google Landing Page</a></p>
   <p><a href="https://emregllce.github.io/CSS_Flex_Media_Query/" target="_blank" rel="noreferrer">Flexbox With MediaQuery</a></p>
 </details>
