@@ -1,3 +1,4 @@
+<img  alt="Languages and Tools" width="80%" margin="auto" src="./img/hello.jpg" style="padding-right:10px, margin:"auto" />
 # Hi there, I'm Emre 👋 
 
 
@@ -8,7 +9,7 @@
 - 🥅 2022 Goals: 👆  😉
 - ⚡ Fun fact: anything full of adrenalin (snowboard, ski, bungee-jump, paragliding...), take a rest in nature..
 
-### Connect with me:
+### You can connect with me by:
 
 
 &nbsp;&nbsp;
@@ -18,7 +19,7 @@
 
 ### Languages and Tools:
 
-[<img align="center" alt="Languages and Tools" width="500px" src="./img/github.jpg" style="padding-right:10px;" />
+<img  alt="Languages and Tools" width="80%" margin="auto" src="./img/github.jpg" style="padding-right:10px, margin:"auto" />
 
 <br />
 <br />
