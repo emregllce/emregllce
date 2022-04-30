@@ -12,7 +12,7 @@
 
 
 &nbsp;&nbsp;
-[![website](./linkedin-svgrepo-com.svg)](https://www.linkedin.com/in/emregulluce#gh-light-mode-only)
+(./linkedin-svgrepo-com.svg)](https://www.linkedin.com/in/emregulluce#gh-light-mode-only)
 [![website](./icon8-linkedin-circled.svg)](https://www.linkedin.com/in/emregulluce/#gh-dark-mode-only)
 
 
