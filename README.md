@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-[<img align="center" alt="Languages and Tools" width="300px" src="./img/github.jpg" style="padding-right:10px;" />
+[<img align="center" alt="Languages and Tools" width="500px" src="./img/github.jpg" style="padding-right:10px;" />
 
 <br />
 <br />
