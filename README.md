@@ -1,4 +1,4 @@
-<img  alt="hello" src="./img/hello.png" style="margin-left:175px"/>
+<img align="center"  alt="hello" src="./img/hello.png" style="margin-left:175px"/>
 # Hi there, I'm Emre 👋 
 
 
