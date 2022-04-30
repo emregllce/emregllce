@@ -12,8 +12,8 @@
 
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-svgrepo-com.svg)](https://www.linkedin.com/in/emregulluce#gh-light-mode-only)
-[![website](./img/linkedin-svgrepo-com.svg)](https://www.linkedin.com/in/emregulluce/#gh-dark-mode-only)
+[![website](./img/icons8-linkedin-circled.svg)](https://www.linkedin.com/in/emregulluce#gh-light-mode-only)
+[![website](./img/icons8-linkedin-circled.svg)](https://www.linkedin.com/in/emregulluce/#gh-dark-mode-only)
 
 
 ### Languages and Tools:
