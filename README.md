@@ -24,7 +24,8 @@
 <p align="center" width="100%"> 
     <img width="80% alt="Languages and Tools" margin="auto" src="./img/github.jpg" />
 </p>
-
+<br />
+<h3 align="center">You can see my favorite projects below.. for more please visit <a href="https://github.com/emregllce?tab=repositories">**My Projects!**</a></h3>
 <br />
 <details align="center">
   <summary><h3><em>Click For React Projects!</em></h3></summary>
