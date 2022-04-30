@@ -19,7 +19,7 @@
 
 ### Languages and Tools:
 
-<img  alt="Languages and Tools" margin="auto" src="./img/github.jpg" style="padding-right:10px, margin:"auto" />
+<img  alt="Languages and Tools" margin="auto" src="./img/github.jpg" style="padding-right:10px, margin:auto" />
 
 <br />
 <br />
