@@ -12,13 +12,13 @@
 
 
 &nbsp;&nbsp;
-[![website]url(https://pin.it/3m2XiR6)](https://www.linkedin.com/in/emregulluce#gh-light-mode-only)
-<!-- [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/emregulluce/#gh-dark-mode-only) -->
+[![website](./img/linkedin-svgrepo-com.svg)](https://www.linkedin.com/in/emregulluce#gh-light-mode-only)
+[![website](./img/linkedin-svgrepo-com.svg)](https://www.linkedin.com/in/emregulluce/#gh-dark-mode-only)
 
 
 ### Languages and Tools:
 
-[<img align="center" alt="Languages and Tools" width="300px" src="./github.jpg" style="padding-right:10px;" />
+[<img align="center" alt="Languages and Tools" width="300px" src="./img/github.jpg" style="padding-right:10px;" />
 
 <br />
 <br />
