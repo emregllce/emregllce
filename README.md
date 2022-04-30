@@ -40,4 +40,14 @@
 </details>
   <hr/>
 <br />
+<details align="center">
+  <summary><h3><em>Click For Javascript Projects!</em></h3></summary>
+  <p><a href="https://emregllce.github.io/movie-seat-App/" target="_blank" rel="noreferrer">Movie Seat App</a></p>
+  <p><a href="https://emregllce.github.io/ios_calculator/" target="_blank" rel="noreferrer">IOS Calculator</a></p>
+  <p><a href="https://emregllce.github.io/to_do_list/" target="_blank" rel="noreferrer">ToDo List</a></p>
+  <p><a href="https://emregllce.github.io/clock/" target="_blank" rel="noreferrer">Digital Clock</a></p>
+  <p><a href="https://emregllce.github.io/guess_the_number/" target="_blank" rel="noreferrer">Guess The Number</a></p>
+  <p><a href="https://emregllce.github.io/lottery_game/" target="_blank" rel="noreferrer">Lottery Game</a></p>
+  </details>
+  <hr/>
 
