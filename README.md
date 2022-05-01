@@ -62,7 +62,9 @@
   <hr/>
  
  <br />
-#### Languages and Tools:
+                                                                                                 
+# Languages and Tools:
+                                                                                                 
 <p align="center" width="100%"> 
     <img width="80% alt="Languages and Tools" margin="auto" src="./img/github.jpg" />
 </p>
