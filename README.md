@@ -7,7 +7,7 @@
 
 ## I'm a Husband, Father of three Daughters and a FrontEnd Developer
 
-- 🌱 I’m currently learning Django for Back End Development
+- 🌱 I’m currently learning AWS Cloud System
 - 🤷🏻‍♂️ Hope to learn everything 
 - 🥅 2022 Goals: 👆  😉
 - ⚡ Fun fact: anything full of adrenalin (snowboard, ski, bungee-jump, paragliding...), take a rest in nature..
