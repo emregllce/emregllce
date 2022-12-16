@@ -5,11 +5,8 @@
 # Hi there, I'm Emre 👋 
 
 
-## I'm a Husband, Father of three Daughters and a FrontEnd Developer
+## I'm a Husband, Father of three Daughters and a FrontEnd Developer and a AWS Certified Solution Architect
 
-- 🌱 I’m currently learning AWS Cloud System
-- 🤷🏻‍♂️ Hope to learn everything 
-- 🥅 2022 Goals: 👆  😉
 - ⚡ Fun fact: anything full of adrenalin (snowboard, ski, bungee-jump, paragliding...), take a rest in nature..
 
 ### You can connect with me by:
@@ -26,6 +23,7 @@
 <br />
 <details align="center">
   <summary><h3><em>Click For React Projects!</em></h3></summary>
+  <p><a href="https://emregllce-amazonclone-reduxtoolkit.netlify.app/" target="_blank" rel="noreferrer">Clone of www.amazon.com</a></p>                    
   <p><a href="https://firebase-milestone-graduate.netlify.app/" target="_blank" rel="noreferrer">Firebase Graduate Milestown</a></p>
   <p><a href="https://firebase-editdeleteadd-contact.netlify.app/" target="_blank" rel="noreferrer">Firebase Contacts</a></p>
   <p><a href="https://emregllce-random-users2.netlify.app/" target="_blank" rel="noreferrer">Random User App 2</a></p>
