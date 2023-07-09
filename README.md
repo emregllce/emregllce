@@ -23,6 +23,7 @@
 <br />
 <details align="center">
   <summary><h3><em>Click For React Projects!</em></h3></summary>
+  <p><a href="https://gllcex-buy-crypto.netlify.app//" target="_blank" rel="noreferrer">GLLCEX Crypto BUY-SELL</a></p> 
   <p><a href="https://emregllce-amazonclone-reduxtoolkit.netlify.app/" target="_blank" rel="noreferrer">Clone of www.amazon.com</a></p>                    
   <p><a href="https://firebase-milestone-graduate.netlify.app/" target="_blank" rel="noreferrer">Firebase Graduate Milestown</a></p>
   <p><a href="https://firebase-editdeleteadd-contact.netlify.app/" target="_blank" rel="noreferrer">Firebase Contacts</a></p>
