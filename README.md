@@ -5,7 +5,7 @@
 # Hi there, I'm Emre 👋 
 
 
-## I'm a Husband, Father of three Daughters and a FrontEnd Developer and a Devops Engineer (AWS SAA certified)
+## I'm a Husband, Father of three Daughters and a FrontEnd Developer and a Devops Engineer (CKA nad AWS SAA certified)
 
 - ⚡ Fun fact: anything full of adrenalin (snowboard, ski, bungee-jump, paragliding...), take a rest in nature..
 
